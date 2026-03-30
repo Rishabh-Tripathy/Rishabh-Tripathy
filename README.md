@@ -5,17 +5,7 @@ I am currently on a dedicated **18-month sprint** to master the intersection of 
 
 ---
 
-## 🚀 The 18-Month Roadmap (2026-2027)
-*Targeting GSoC 2027 & MAANG Summer Internship*
 
-- [ ] **Phase 1: Logic Foundation** (C++ & DSA Mastery) - *Current Focus* 📍
-- [ ] **Phase 2: Modern Frontend** (Next.js 15, TypeScript, Tailwind CSS)
-- [ ] **Phase 3: Backend & Systems** (PostgreSQL, Prisma, Node.js, Cloud)
-- [ ] **Phase 4: Agentic AI** (PyTorch, RAG, Autonomous Agents)
-- [ ] **Phase 5: GSoC Selection** (System Design & Open Source Contribution)
-- [ ] **Phase 6: Production & Scaling** (MLOps & GSoC Execution)
-
----
 
 ## 🛠️ Tech Stack & Tools
 
