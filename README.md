@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Your Name]
 ### Aspiring Full-Stack AI Engineer | Open Source Enthusiast | GSoC 2027 Candidate
 
-I am currently on a dedicated **18-month sprint** to master the intersection of high-performance logic (C++) and scalable AI systems (Next.js & Python). My goal is to contribute to world-class open-source projects and build intelligent software that scales.
+
 
 ---
 
@@ -32,7 +32,7 @@ I am currently on a dedicated **18-month sprint** to master the intersection of 
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN])
+- 💼 [LinkedIn](https://linkedin.com/in/rishabh-tripathy-a23979370)
 - 🐦 [Twitter](https://twitter.com/[YOUR-TWITTER])
 - 📧 [Email](mailto:your-email@example.com)
 
