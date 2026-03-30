@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]
-### Aspiring Full-Stack AI Engineer | Open Source Enthusiast | GSoC 2027 Candidate
+# 👋 Hi, I'm Rishabh Tripathy.
+### Aspiring Full-Stack AI Engineer | Open Source Enthusiast
 
 
 
@@ -12,7 +12,10 @@
 ### **Languages & Logic**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white)
+
+
 
 ### **Frontend & Design**
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -26,7 +29,7 @@
 ---
 
 ## 📊 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh-Tripathy&show_icons=true&theme=tokyonight)
+![rishabh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh-Tripathy&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
 
 ---
@@ -34,7 +37,7 @@
 ## 📬 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/rishabh-tripathy-a23979370)
 - 🐦 [Twitter](https://twitter.com/[YOUR-TWITTER])
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:rishabh.tripathy15@gmail.com)
 
 ---
 
