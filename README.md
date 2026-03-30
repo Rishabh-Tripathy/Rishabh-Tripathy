@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm [Rishabh Tripathy] 
+
+### 
+I am a student 
+
+---
+
+## 🚀 What I'm Doing
+- 📢 **Digital Advocacy:** Leading workshops on safe internet practices and digital tools.
+
+- 📚 **Learning:** Currently diving deeper into [Topic, e.g., Web Dev, Cybersecurity, or UX Design].
+
+## 🛠️ My Digital Toolkit
+- **Design:** Canva, Figma, Miro
+- **Dev:** HTML/CSS, Git/GitHub, Markdown
+- **Collab:** Slack, Notion, Trello
+
+## 📊 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh-Tripathy&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/rishabh-tripathy)
+- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 📧 [Email Me](rishabh.tripathy15@gmail.com)
+
+---
